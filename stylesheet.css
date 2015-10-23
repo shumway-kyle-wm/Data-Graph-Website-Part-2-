@@ -1,0 +1,10 @@
+div {
+    display: inline;
+}
+body {
+    background: black;
+}
+text {
+    float: right;
+    color: red;
+}
